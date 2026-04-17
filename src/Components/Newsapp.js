@@ -38,11 +38,11 @@ const Newsapp = () => {
           <h1>Latest News</h1>
         </div>
 
-        <ul>
-          {/* ✅ anchor fix */}
-          <a href="#">All News</a>
-          <a href="#">Trending</a>
-        </ul>
+        // <ul>
+        //   {/* ✅ anchor fix */}
+        //   <a href="#">All News</a>
+        //   <a href="#">Trending</a>
+        // </ul>
 
         <div className='searchBar'>
           <input
